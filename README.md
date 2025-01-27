@@ -1,6 +1,6 @@
 # HBash - Advanced Terminal Emulator
 
-![HBash Logo](assets/hterm-logo.png)
+![HBash Logo](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash.png?raw=true)
 
 ## Overview
 HBash is a feature-rich terminal emulator written in Python that provides a modern command-line interface with extensive functionality, user management, and customization options.
