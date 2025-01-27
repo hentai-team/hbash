@@ -69,7 +69,7 @@ python hterm.py
 ### Additional Documentation
 
 Detailed documentation for commands is available in the docs folder in different languages:
-[English](docs/COMMANDS-EN.md) | [Russian](docs/COMMANDS-RU.md) | [Japanese](docs/COMMANDS-JP.md) | [Chinese](docs/COMMANDS-CH.md)
+[English](https://github.com/hentai-team/hbash/blob/main/docs/commands-en.md) | [Russian](https://github.com/hentai-team/hbash/blob/main/docs/commands-ru.md) | [Japanese](https://github.com/hentai-team/hbash/blob/main/docs/commands-jp.md) | [Chinese](https://github.com/hentai-team/hbash/blob/main/docs/commands-ch.md)
 
 
 ## Configuration
