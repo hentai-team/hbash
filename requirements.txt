@@ -1,0 +1,8 @@
+pyfiglet
+colorama
+psutil
+ping3
+requests
+paramiko
+netifaces
+schedule

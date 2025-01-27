@@ -1,0 +1,70 @@
+{
+    "language_name": "English",
+    "strings": {
+        "welcome": "Welcome to HTerm!",
+        "login_prompt": "Username: ",
+        "password_prompt": "Password: ",
+        "login_success": "Login successful",
+        "login_failed": "Invalid username or password",
+        "abort": "Abort.",
+        "options": {
+            "title": "Options",
+            "terminal_color": "Terminal Color",
+            "language": "Language",
+            "computer_name": "Computer Name",
+            "back": "Back",
+            "invalid_option": "Invalid option",
+            "language_selection": {
+                "available": "Available Languages",
+                "select": "Select language",
+                "current": "current",
+                "invalid": "Invalid language selection",
+                "success": "Language set to: {0}"
+            },
+            "colors": {
+                "title": "Colors",
+                "default": "Default",
+                "white": "White",
+                "red": "Red",
+                "yellow": "Yellow",
+                "green": "Green",
+                "blue": "Blue",
+                "cyan": "Cyan",
+                "magenta": "Magenta",
+                "color_set": "Color set.",
+                "defaulting": "Defaulting."
+            }
+        },
+        "commands": {
+            "not_found": "Command \"{0}\" not found.",
+            "error": "Error executing command: {0}",
+            "missing_argument": "Missing argument for {0} command",
+            "access_denied": "Access denied. Root privileges required.",
+            "user": {
+                "create_prompt": "Enter new username: ",
+                "empty_username": "Username cannot be empty",
+                "password_prompt": "Enter password: ",
+                "admin_prompt": "Make admin? (y/N): ",
+                "creation_cancelled": "User creation cancelled",
+                "delete_prompt": "Enter username to delete: ",
+                "cannot_delete_self": "Cannot delete current user",
+                "deletion_cancelled": "User deletion cancelled"
+            },
+            "editor": {
+                "usage": "Usage: edit <filename>",
+                "new_file": "New File",
+                "file_saved": "File saved successfully",
+                "save_prompt": "Save modified buffer? (y/N)",
+                "editor_closed": "Editor closed",
+                "line_col_info": "Line: {0}/{1}  Col: {2}"
+            }
+        },
+        "packages": {
+            "installing": "Installing package \"{0}\"",
+            "incorrect_package": "Incorrect package \"{0}\"",
+            "missing_name": "Missing package name.",
+            "uninstalling": "Uninstalling package \"{0}\"",
+            "not_found": "Command \"{0}\" not found."
+        }
+    }
+}
