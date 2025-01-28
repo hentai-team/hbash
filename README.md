@@ -57,6 +57,20 @@ pip install -r requirements.txt
 python hterm.py
 ```
 
+### Default Login
+The default root account credentials are:
+```bash
+Username: root
+Password: root
+```
+Actually, this thing was added just for fun, so it will be removed in the new versions.
+
+For security reasons, it is recommended to change the root password after first login using the following commands:
+```bash
+deluser root
+adduser root
+```
+
 ### Basic Commands
 - `help` - Display available commands
 - `quit` - Exit HTerm

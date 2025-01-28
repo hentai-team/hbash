@@ -54,6 +54,15 @@ pip install -r requirements.txt
 python hterm.py
 ```
 
+### 默认登录
+默认 root 账户的凭据是：
+```bash
+用户名：root
+密码：root
+```
+实际上，这个功能只是为了好玩而添加的，将会在新版本中移除。
+
+
 ### 基本命令
 - `help` - 显示可用命令
 - `quit` - 退出 HTerm
