@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 ## Использование
 
-### Запуск HTerm
+### Запуск HBash
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### Авторизация
