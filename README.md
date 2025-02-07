@@ -52,9 +52,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Starting HTerm
+### Starting HBash
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### Default Login
