@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-### HTermの起動
+### HBashの起動
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### デフォルトログイン
