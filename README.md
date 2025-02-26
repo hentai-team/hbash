@@ -74,7 +74,7 @@ adduser root
 ### Basic Commands
 - `help` - Display available commands
 - `quit` - Exit HTerm
-- `clear` - Clear screen
+- `clear` or `cls` - Clear screen
 - `ver` - Show version information
 
 ### User Management
