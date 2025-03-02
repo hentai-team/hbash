@@ -1,4 +1,4 @@
-# HBash - Продвинутый эмулятор терминала
+# hbash - продвинутый эмулятор терминала
 
 ![Логотип HBash](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash-ru.png?raw=true)
 
