@@ -6,7 +6,7 @@ This README is available in other languages for reading and studying. Choose a c
 [Russian](https://github.com/hentai-team/hbash/blob/main/README-ru.md) | [Japanese](https://github.com/hentai-team/hbash/blob/main/README-jp.md) | [Chinese](https://github.com/hentai-team/hbash/blob/main/README-ch.md)
 
 ## Overview
-HBash is a feature-rich terminal emulator written in Python that provides a modern command-line interface with extensive functionality, user management, and customization options.
+hbash is a feature-rich terminal emulator written in Python that provides a modern command-line interface with extensive functionality, user management, and customization options.
 
 ## Features
 
