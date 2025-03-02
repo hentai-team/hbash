@@ -1,4 +1,4 @@
-# HBash - Advanced Terminal Emulator
+# hbash - advanced terminal emulator
 
 ![HBash Logo](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash.png?raw=true)
 
