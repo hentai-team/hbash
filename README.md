@@ -107,6 +107,9 @@ Detailed documentation for commands is available in the docs folder in different
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests.
 
+## Project plans
+You can get acquainted with the plans and the current implementation of certain ideas and plans that we are developing for hbash. We have prepared a detailed map of the plans.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
