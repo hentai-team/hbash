@@ -1,9 +1,9 @@
-# HBash - 高度なターミナルエミュレーター
+# hbash - 高度なターミナルエミュレーター
 
 ![HBash ロゴ](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash-jp.png?raw=true)
 
 ## 概要
-HBashは、Pythonで書かれた機能豊富なターミナルエミュレーターで、高度な機能性、ユーザー管理、カスタマイズオプションを備えた最新のコマンドラインインターフェースを提供します。
+hbashは、Pythonで書かれた機能豊富なターミナルエミュレーターで、高度な機能性、ユーザー管理、カスタマイズオプションを備えた最新のコマンドラインインターフェースを提供します。
 
 ## 機能
 
@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-### HTermの起動
+### HBashの起動
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### デフォルトログイン

@@ -1,4 +1,4 @@
-# HBash - Advanced Terminal Emulator
+# hbash - advanced terminal emulator
 
 ![HBash Logo](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash.png?raw=true)
 
@@ -6,7 +6,7 @@ This README is available in other languages for reading and studying. Choose a c
 [Russian](https://github.com/hentai-team/hbash/blob/main/README-ru.md) | [Japanese](https://github.com/hentai-team/hbash/blob/main/README-jp.md) | [Chinese](https://github.com/hentai-team/hbash/blob/main/README-ch.md)
 
 ## Overview
-HBash is a feature-rich terminal emulator written in Python that provides a modern command-line interface with extensive functionality, user management, and customization options.
+hbash is a feature-rich terminal emulator written in Python that provides a modern command-line interface with extensive functionality, user management, and customization options.
 
 ## Features
 
@@ -52,9 +52,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Starting HTerm
+### Starting HBash
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### Default Login
@@ -74,7 +74,7 @@ adduser root
 ### Basic Commands
 - `help` - Display available commands
 - `quit` - Exit HTerm
-- `clear` - Clear screen
+- `clear` or `cls` - Clear screen
 - `ver` - Show version information
 
 ### User Management
@@ -106,6 +106,9 @@ Detailed documentation for commands is available in the docs folder in different
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests.
+
+## Project plans
+You can get acquainted with the plans and the current implementation of certain ideas and plans that we are developing for hbash. We have prepared a detailed map of the plans.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

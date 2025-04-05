@@ -1,9 +1,9 @@
-# HBash - 高级终端模拟器
+# hbash - 高级终端模拟器
 
 ![HBash Logo](https://github.com/hentai-team/hbash/blob/main/assets/hbash-splash-ch.png?raw=true)
 
 ## 概述
-HBash 是一个用 Python 编写的功能丰富的终端模拟器，提供现代命令行界面，具有广泛的功能、用户管理和自定义选项。
+hbash 是一个用 Python 编写的功能丰富的终端模拟器，提供现代命令行界面，具有广泛的功能、用户管理和自定义选项。
 
 ## 特点
 
@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-### 启动 HTerm
+### 启动 HBash
 ```bash
-python hterm.py
+python hbash.py
 ```
 
 ### 默认登录
